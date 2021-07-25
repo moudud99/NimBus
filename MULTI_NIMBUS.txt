@@ -1,0 +1,7 @@
+
+HOW TO PLAY ‘Multi-player NIM-BUS’ ( n - Player)
+
+‘NIMBUS’ is a modified version of the traditional game of ‘NIM’.
+The rules of this game are very simple.
+The game is played between n number of players ( n>2 ). In the beginning, there will be some stacks with a random number of elements. There will be a toss to determine in which order the players will make their moves. Then, taking turns, each player will draw either 1 or 2 from any stack ( provided that the stack is non-empty and the move is valid ). The player drawing the last element from a stack ( clearing a stack ) claims a point. 
+The player with the most points is declared as the WINNER.

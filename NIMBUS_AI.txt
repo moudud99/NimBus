@@ -1,0 +1,13 @@
+
+HOW TO PLAY 'NIM-BUS vs Computer' ( vs Computer)
+
+'NIMBUS' is a modified version of the traditional game of 'NIM'.
+The rules of this game are very simple.
+
+The game is played between a player and the Computer (AI). In the beginning, there will be an odd number of stacks (to ascertain there's a winner).
+Each stack will contain an arbitrary number of elements. There will be a toss to determine who will make the first move.
+Then, taking turns, the player and the Computer (AI) will draw either 1 or 2 from any stack ( provided that the stack is non-empty and the move is valid ). The player drawing the last element from a stack ( clearing a stack ) claims a point. 
+
+The player with the most points is declared as the WINNER.
+
+*** The Computer believes himself to be INVINCIBLE ( Just Like THANOS). Try to prove him wrong. Best of Luck ***

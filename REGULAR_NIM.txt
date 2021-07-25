@@ -1,0 +1,11 @@
+
+HOW TO PLAY 'NIM' ( Traditional - 2 Player)
+
+The rules of this game are very simple.
+
+The game is played between 2 players. In the beginning, there will be an odd number of stacks (to ascertain there's a winner).
+Each stack will contain an arbitrary number of elements. There will be a toss to determine which player will make the first move.
+Then, taking turns, a player must remove at least one object and may remove any number of elements provided they all come from the same stack. 
+
+The goal of the game is to take the last element or to clear the last stack. The player doing so is regarded as the WINNER.
+

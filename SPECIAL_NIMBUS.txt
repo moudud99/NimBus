@@ -1,0 +1,14 @@
+
+HOW TO PLAY 'SPECIAL NIM-BUS' ( SPECIAL - 2 Player)
+
+'NIMBUS' is a modified version of the traditional game of 'NIM'.
+The rules of this game are very simple.
+
+The game is played between 2 players. In the beginning, there will be an odd number of stacks (to ascertain there's a winner). Each stack will contain an arbitrary number of elements.
+There will be a toss to determine which player will make the first move. Then, taking turns, each player will draw either 1 or 2 from any stack ( provided that the stack is non-empty and the move is valid ).
+During the whole game, each player is allowed to perform a 'SPECIAL MOVE'. The 'SPECIAL MOVE' will allow a player to draw 'ANY' valid number of elements from any stack.
+The player drawing the last element from a stack ( clearing a stack ) claims a point. 
+
+The player with the most points is declared as the WINNER.
+
+*** Remember, A player can perform his/her SPECIAL MOVE only ONCE. So, make your move wisely :D I hope you're wise enough ;D***
